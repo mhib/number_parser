@@ -1,8 +1,6 @@
 require "./spec_helper"
 
 describe NumberParser do
-  # TODO: Write tests
-
   it "handles en argument" do
     NumberParser.parse("twelve", lang: "en").should eq "12"
   end
