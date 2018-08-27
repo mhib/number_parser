@@ -1,0 +1,9 @@
+name: number_parser
+version: 0.1.0
+
+authors:
+  - Marcin Henryk Bartkowiak <mhbartkowiak@gmail.com>
+
+crystal: 0.26.0
+
+license: MIT
