@@ -1,5 +1,5 @@
 abstract class NumberParser::GenericProvider
-  def parse(str, ignore = [] of String, bias = :noe)
+  def parse(str, ignore = [] of String, bias = :none)
     str = preprocess(str, ignore)
     str = numerize_numerals(str, ignore, bias)
     str = numerize_fractions(str, ignore, bias)
