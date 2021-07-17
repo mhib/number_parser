@@ -1,5 +1,4 @@
 # number_parser
-[![Build Status](https://travis-ci.com/mhib/number_parser.svg?token=QxTjF5cyvAyFx6gAmphf&branch=master)](https://travis-ci.com/mhib/number_parser)
 
 [Numerizer](https://github.com/jduff/numerizer) in crystal
 
